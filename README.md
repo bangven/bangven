@@ -1,16 +1,40 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Menu Sederhana</title>
+  <style>
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      background-color: #333;
+      overflow: hidden;
+    }
 
-<!--
-**bangven/bangven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    li {
+      float: left;
+    }
 
-Here are some ideas to get you started:
+    li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    li a:hover {
+      background-color: #111;
+    }
+  </style>
+</head>
+<body>
+
+<ul>
+  <li><a href="index.html">Beranda</a></li>
+  <li><a href="tentang.html">Tentang Kami</a></li>
+</ul>
+
+</body>
+</html>
