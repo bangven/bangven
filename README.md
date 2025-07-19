@@ -33,7 +33,7 @@
 
 <ul>
   <li><a href="index.html">Beranda</a></li>
-  <li><a href="tentang.html">Tentang Kami</a></li>
+  <li><a href="tentang.html">Tentang saya</a></li>
 </ul>
 
 </body>
